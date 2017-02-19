@@ -1,2 +1,2 @@
 # Saltside-assignment
-Implementation of the assignment
+First submission has been made.
